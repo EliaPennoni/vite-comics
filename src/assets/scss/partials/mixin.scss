@@ -1,0 +1,9 @@
+@mixin base-flex-rule {
+    display: flex;
+    justify-content: space-between;
+}
+
+@mixin base-decoration-rule {
+    list-style: none;
+    text-decoration: none;
+}
