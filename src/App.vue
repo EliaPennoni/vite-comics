@@ -25,7 +25,7 @@ export default {
   <AppFooter />
 </template>
 
-<style lang='scss' scoped>
-@use 'assets/scss/partials/mixin' as *;
+<style lang='scss'>
+@use 'assets/scss/partials/' as *;
 
 </style>
