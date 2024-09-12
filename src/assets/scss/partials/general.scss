@@ -1,0 +1,8 @@
+@use 'reset' as *;
+@use 'mixin' as *;
+
+/* general */
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}

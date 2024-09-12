@@ -26,6 +26,6 @@ export default {
 </template>
 
 <style lang='scss'>
-@use 'assets/scss/partials/' as *;
+@use 'assets/scss/partials/general' as *;
 
 </style>
